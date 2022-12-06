@@ -1,9 +1,9 @@
 ##################################################################
 # Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# Redmi-AC2100 # Redmi-AC2100   # MT7621  #
+# JDC-1   # JDC-1          # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_RM2100
-BOARD_NUM_USB_PORTS=0
-CONFIG_BOARD_RAM_SIZE=128
+CFLAGS += -DBOARD_JDC_1
+BOARD_NUM_USB_PORTS=1
+CONFIG_BOARD_RAM_SIZE=512
