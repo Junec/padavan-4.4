@@ -1,6 +1,6 @@
-/* Redmi-AC2100 */
+/* JDC-1 */
 
-#define BOARD_PID		"JDC"
+#define BOARD_PID		"JDC-1"
 #define BOARD_NAME		"JDC"
 #define BOARD_DESC		"JDCloud Wireless Router"
 #define BOARD_VENDOR_NAME	"JDCloud Technology"
